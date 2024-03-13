@@ -1,7 +1,7 @@
 # \[Group name\]
 
 **Group members:**
-- A
+- Joshua Uhlig
 - B
 - C
 
