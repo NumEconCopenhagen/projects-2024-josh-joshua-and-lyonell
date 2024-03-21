@@ -2,7 +2,7 @@
 
 **Group members:**
 - Joshua Uhlig
-- B
+- Joshua Clyne
 - C
 
 This repository contains  
