@@ -1,4 +1,4 @@
-# Josh, Joshua and Lyonell
+# Josh, Joshua and Lyonel
 
 **Group members:**
 - Joshua Uhlig
