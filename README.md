@@ -3,7 +3,7 @@
 **Group members:**
 - Joshua Uhlig
 - Joshua Clyne
-- C
+- Lyonel Bornemann
 
 This repository contains  
 1. Inaugural project. 
