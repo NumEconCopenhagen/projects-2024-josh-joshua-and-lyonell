@@ -10,9 +10,9 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 We apply the **following datasets**:
 
-1. CAINC4_ALL_AREAS_1969-2022.csv (https://apps.bea.gov/regional/downloadzip.cfm?_gl=1*pn7tgq*_ga*MTM0MTU4OTIzMS4xNzA5MjM4MDM1*_ga_J4698JNNFT*MTcwOTczOTQ2NC40LjEuMTcwOTc0MTM1MS4xMC4wLjA.)
-2. spi0404-3.csv (https://apps.bea.gov/regional/histdata/releases/0404spi/index.cfm)
-3. spi0404-5.csv (https://apps.bea.gov/regional/histdata/releases/0404spi/index.cfm)
+1. [CAINC4_ALL_AREAS_1969-2022.csv](https://apps.bea.gov/regional/downloadzip.cfm?_gl=1*pn7tgq*_ga*MTM0MTU4OTIzMS4xNzA5MjM4MDM1*_ga_J4698JNNFT*MTcwOTczOTQ2NC40LjEuMTcwOTc0MTM1MS4xMC4wLjA.)
+2. [spi0404-3.csv](https://apps.bea.gov/regional/histdata/releases/0404spi/index.cfm)
+3. [spi0404-5.csv](https://apps.bea.gov/regional/histdata/releases/0404spi/index.cfm)
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
