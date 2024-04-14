@@ -14,6 +14,4 @@ We apply the **following datasets**:
 2. [spi0404-3.csv](https://apps.bea.gov/regional/histdata/releases/0404spi/index.cfm)
 3. [spi0404-5.csv](https://apps.bea.gov/regional/histdata/releases/0404spi/index.cfm)
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-``pip install matplotlib-venn``
+**Dependencies:** The project only needsthe a standard Anaconda Python 3 installation
