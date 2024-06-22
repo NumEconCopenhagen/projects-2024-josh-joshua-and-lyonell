@@ -3,7 +3,7 @@
 **Group members:**
 - Joshua Uhlig (xrc410)
 - Joshua Clyne (zjq446)
-- Lyonel Bornemann
+- Lyonel Bornemann (tfx456)
 
 This repository contains  
 1. Inaugural project. 
