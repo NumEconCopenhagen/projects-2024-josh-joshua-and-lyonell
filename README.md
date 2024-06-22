@@ -1,9 +1,9 @@
 # Josh, Joshua and Lyonel
 
 **Group members:**
-- Joshua Uhlig
-- Joshua Clyne
-- Lyonel Bornemann
+- Joshua Uhlig (xrc410)
+- Joshua Clyne (zjq446)
+- Lyonel Bornemann (tfx456)
 
 This repository contains  
 1. Inaugural project. 
